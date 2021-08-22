@@ -1,0 +1,4 @@
+*-old
+*-backup
+Thumds.db
+.DS_store
